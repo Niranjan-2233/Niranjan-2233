@@ -129,7 +129,7 @@ These are the technologies, libraries and tools I am learning and working with.<
 
 
 
-A web-based **paper trading and learning platform** designed for students, beginners and new investors.
+A learning journey in **Python, Data Science, AI/ML, and Data Analytics**, focused on building practical skills through hands-on projects and continuous learning.
 
 
 ---
