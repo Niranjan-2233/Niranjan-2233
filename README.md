@@ -81,7 +81,7 @@ These are the technologies, libraries and tools I am learning and working with.<
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
 </td>
 <td align="center" width="110">
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70"/><br>Seaborn
+<img src="seaborn.png" width="70"/><br>Seaborn
 </td>
 <td align="center" width="110">
 <img src="icons8-matplotlib-480.png" width="50"/><br>Matplotlib
@@ -105,7 +105,7 @@ These are the technologies, libraries and tools I am learning and working with.<
 <img src="https://skillicons.dev/icons?i=anaconda" width="50"/><br>Anaconda
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=canva" width="50"/><br>Canva
+<img src="canva.gif" width="50"/><br>Canva
 </td>
 </tr>
 </table>
