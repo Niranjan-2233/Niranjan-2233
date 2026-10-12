@@ -99,7 +99,7 @@ These are the technologies, libraries and tools I am learning and working with.<
 <img src="jupyter_notbook.png" width="50"/><br>Jupyter Notebook
 </td>
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge&logo=googlecolab&logoColor=white" width="75"/><br>AI / ML
+<img src="AIML.png" width="75"/><br>AI / ML
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=anaconda" width="50"/><br>Anaconda
