@@ -81,7 +81,7 @@ These are the technologies, libraries and tools I am learning and working with.<
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
 </td>
 <td align="center" width="110">
-<img src="seaborn.png" width="70"/><br>Seaborn
+<img src="seaborn.png" width="50"/><br>Seaborn
 </td>
 <td align="center" width="110">
 <img src="icons8-matplotlib-480.png" width="50"/><br>Matplotlib
@@ -99,13 +99,13 @@ These are the technologies, libraries and tools I am learning and working with.<
 <img src="jupyter_notbook.png" width="50"/><br>Jupyter Notebook
 </td>
 <td align="center" width="110">
-<img src="AIML.png" width="75"/><br>AI / ML
+<img src="AIML.png" width="60"/><br>AI / ML
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=anaconda" width="50"/><br>Anaconda
+<img src="https://skillicons.dev/icons?i=anaconda" width="60"/><br>Anaconda
 </td>
 <td align="center" width="110">
-<img src="canva.gif" width="50"/><br>Canva
+<img src="canva.png" width="70"/><br>Canva
 </td>
 </tr>
 </table>
@@ -121,11 +121,11 @@ These are the technologies, libraries and tools I am learning and working with.<
 <br>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-</div>
+</div><br>
 
 
 
