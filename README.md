@@ -45,76 +45,69 @@ These are the technologies, libraries and tools I am learning and working with.<
 
 <div align="center"><br>
 
-<table>
-
+ <table>
 <tr>
-
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
-<br>Python
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python
 </td>
-
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-<br>HTML
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
 </td>
-
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<br>Git
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
 </td>
-
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-<br>GitHub
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
 </td>
-
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-<br>VS Code
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
 </td>
-
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=anaconda" width="50"/>
-<br>Anaconda
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center">
-<img src="numpy.png" width="50"/>
-<br>NumPy
+<td align="center" width="110">
+<img src="numpy.png" width="50"/><br>NumPy
 </td>
-
-<td align="center">
-<img src="Pandas.png" width="50"/>
-<br>Pandas
+<td align="center" width="110">
+<img src="Pandas.png" width="50"/><br>Pandas
 </td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
-<br>Scikit-Learn
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-Learn
 </td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-<br>TensorFlow
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
 </td>
-
-<td align="center">
-<img src="logo.svg" width="50"/>
-<br>SciPy
+<td align="center" width="110">
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70"/><br>Seaborn
 </td>
-
-<td align="center">
-<img src="icons8-matplotlib-480.png" width="50"/>
-<br>Matplotlib
+<td align="center" width="110">
+<img src="icons8-matplotlib-480.png" width="50"/><br>Matplotlib
 </td>
-
 </tr>
 
+<tr>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=jupyter" width="50"/><br>Jupyter Notebook
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge&logo=googlecolab&logoColor=white" width="75"/><br>AI / ML
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=anaconda" width="50"/><br>Anaconda
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=canva" width="50"/><br>Canva
+</td>
+</tr>
 </table>
 
 <br>
