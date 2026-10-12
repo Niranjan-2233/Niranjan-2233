@@ -105,7 +105,7 @@ These are the technologies, libraries and tools I am learning and working with.<
 <img src="https://skillicons.dev/icons?i=anaconda" width="60"/><br>Anaconda
 </td>
 <td align="center" width="110">
-<img src="canva.png" width="70"/><br>Canva
+<img src="canva.png" width="60"/><br>Canva
 </td>
 </tr>
 </table>
