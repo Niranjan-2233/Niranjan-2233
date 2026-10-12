@@ -40,7 +40,7 @@
 
 ---
 
-# My Tech Stack 
+<h2 align="center"><img src="code.gif" height="20"/>  My Tech Stack  <img src="code.gif" height="20"/></h2>
 These are the technologies, libraries and tools I am learning and working with.
 
 <div align="center">
