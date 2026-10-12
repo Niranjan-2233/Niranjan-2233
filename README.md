@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 About Me <img src="https://media.giphy.com/media/5L7a7v0TQB6o4/giphy.gif" height="35"/>
+# About Me 
 
 <!-- <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
@@ -24,7 +24,7 @@
 
 ---
 
-# 🔥 Currently Working On <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="35"/>
+# Currently Working On 
 
 *  Improving my **Python programming skills**
 *  Learning **Data Science**
@@ -40,8 +40,7 @@
 
 ---
 
-# 🛠️ My Tech Stack <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" height="35"/>
-
+# My Tech Stack 
 These are the technologies, libraries and tools I am learning and working with.
 
 <div align="center">
