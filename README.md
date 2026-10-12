@@ -10,7 +10,7 @@
 
 ---
 
-# About Me 
+# About Me  🚀
 
 <!-- <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
@@ -24,12 +24,12 @@
 
 ---
 
-# Currently Working On 
+# Working On  ⚡
 
 *  Improving my **Python programming skills**
 *  Learning **Data Science**
-* 🌐 Practicing **HTML & Web Development**
-* 💡 Building real-world projects
+*  Practicing **HTML & Web Development**
+*  Building real-world projects
 
 
 <!-- <div align="center"> -->
@@ -134,7 +134,7 @@ A web-based **paper trading and learning platform** designed for students, begin
 
 ---
 
-# 📊 GitHub Analytics <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" height="35"/>
+# GitHub Analytics 📊
 
 <div align="center">
 
@@ -163,7 +163,7 @@ A web-based **paper trading and learning platform** designed for students, begin
 
 ---
 
-# 🌐 Connect With Me <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="35"/>
+#  Connect With Me 💬
 
 <div align="center">
 
