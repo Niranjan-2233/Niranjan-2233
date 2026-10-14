@@ -134,7 +134,7 @@ A learning journey in **Python, Data Science, AI/ML, and Data Analytics**, focus
 
 ---
 
-# GitHub Analytics 📊
+<!-- # GitHub Analytics 📊 
 
 <div align="center">
 
@@ -150,9 +150,9 @@ A learning journey in **Python, Data Science, AI/ML, and Data Analytics**, focus
 
 <img src="https://streak-stats.demolab.com?user=Niru2233&theme=tokyonight&hide_border=true"/>
 
-</div>
+</div> -->
 
----
+
 
 
 <div align="center">
